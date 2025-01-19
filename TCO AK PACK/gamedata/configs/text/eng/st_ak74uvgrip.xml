@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="st_wpn_ak74uvgrip">
+		<text>AK-74U VGRIP </text>
+	</string>
+	<string id="st_wpn_ak74uvgrip_descr">
+		<text>Like its parent rifle, the Kalash (AK-74M), the AKSU fires a 5.45x39mm cartridge. Its description is misleading as the AKSU is exactly as accurate as the Kalash. [Source] The AKSU has a slightly higher rate-of-fire and a faster aim-down-sights time, making it an effective emergency weapon when facing enemies at close-range.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] SIGHTS : EOT2, PSO2, RAKURS\n
+		%c[d_purple] • %c[ui_gray_2] SILENCER : NATO Silencer\n</text>
+	</string>
+</string_table>

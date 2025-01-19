@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="st_wpn_rgm40">
+		<text>RGM-40 Grenade Launcher </text>
+	</string>
+	<string id="st_wpn_rgm40_descr">
+		<text>The RGM-40 grenade launcher is a stand-alone version of the Russian GP-30 grenade launcher with a telescoping stock, AK-type pistol-grip and flip-up tangent sights. It is a single-shot muzzle loaded weapon with a self-cocking trigger mechanism and offers a high degree of commonality with the GP-30. It was designed primarily for police use and can use a wide range non-lethal ammunition.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] NONE </text>
+	</string>
+</string_table>
